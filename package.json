@@ -1,0 +1,16 @@
+{
+  "name": "leetcode",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "repository": "osdevisnot/leetcode",
+  "license": "MIT",
+  "author": "osdevisnot <osdevisnot@gmail.com>",
+  "prettier": {
+    "printWidth": 120,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
